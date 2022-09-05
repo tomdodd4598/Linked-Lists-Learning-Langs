@@ -1,3 +1,48 @@
 [submodule "Linked-List-C"]
 	path = Linked-List-C
 	url = https://github.com/tomdodd4598/Linked-List-C.git
+[submodule "Linked-List-C-Sharp"]
+	path = Linked-List-C-Sharp
+	url = https://github.com/tomdodd4598/Linked-List-C-Sharp.git
+[submodule "Linked-List-C-Plus-Plus"]
+	path = Linked-List-C-Plus-Plus
+	url = https://github.com/tomdodd4598/Linked-List-C-Plus-Plus.git
+[submodule "Linked-List-Clojure"]
+	path = Linked-List-Clojure
+	url = https://github.com/tomdodd4598/Linked-List-Clojure.git
+[submodule "Linked-List-Dart"]
+	path = Linked-List-Dart
+	url = https://github.com/tomdodd4598/Linked-List-Dart.git
+[submodule "Linked-List-F-Sharp"]
+	path = Linked-List-F-Sharp
+	url = https://github.com/tomdodd4598/Linked-List-F-Sharp.git
+[submodule "Linked-List-Go"]
+	path = Linked-List-Go
+	url = https://github.com/tomdodd4598/Linked-List-Go.git
+[submodule "Linked-List-Groovy"]
+	path = Linked-List-Groovy
+	url = https://github.com/tomdodd4598/Linked-List-Groovy.git
+[submodule "Linked-List-Java"]
+	path = Linked-List-Java
+	url = https://github.com/tomdodd4598/Linked-List-Java.git
+[submodule "Linked-List-TypeScript"]
+	path = Linked-List-TypeScript
+	url = https://github.com/tomdodd4598/Linked-List-TypeScript.git
+[submodule "Linked-List-Kotlin"]
+	path = Linked-List-Kotlin
+	url = https://github.com/tomdodd4598/Linked-List-Kotlin.git
+[submodule "Linked-List-Lua"]
+	path = Linked-List-Lua
+	url = https://github.com/tomdodd4598/Linked-List-Lua.git
+[submodule "Linked-List-Python"]
+	path = Linked-List-Python
+	url = https://github.com/tomdodd4598/Linked-List-Python.git
+[submodule "Linked-List-Rust"]
+	path = Linked-List-Rust
+	url = https://github.com/tomdodd4598/Linked-List-Rust.git
+[submodule "Linked-List-Scala"]
+	path = Linked-List-Scala
+	url = https://github.com/tomdodd4598/Linked-List-Scala.git
+[submodule "Linked-List-Visual-Basic"]
+	path = Linked-List-Visual-Basic
+	url = https://github.com/tomdodd4598/Linked-List-Visual-Basic.git
