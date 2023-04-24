@@ -46,3 +46,6 @@
 [submodule "Linked-List-Visual-Basic"]
 	path = Linked-List-Visual-Basic
 	url = https://github.com/tomdodd4598/Linked-List-Visual-Basic.git
+[submodule "Linked-List-Haskell"]
+	path = Linked-List-Haskell
+	url = https://github.com/tomdodd4598/Linked-List-Haskell.git
